@@ -1,5 +1,5 @@
 Today, Low-Earth-Orbit satellite constellations can allow fast and reliable global internet.
-However, they are highly vulnerable to physical Denial of Service cyberattacks, which we aim to defend against.
+However, they are highly vulnerable to physical Denial of Service cyber attacks, which we aim to defend against.
 
 We propose an innovative approach, using a Phased Array Antenna in Sub THz frequencies. Phased arrays can cancel interferences by beamforming the antenna (Adaptive Nulling). 
 Sub THz frequencies allow higher data rates and narrower beams. We simulated our defensive algorithm using MATLAB and achieved excellent results.
